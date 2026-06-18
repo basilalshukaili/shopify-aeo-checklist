@@ -8,9 +8,22 @@ This checklist is free, community-maintained, and opinionated. PRs welcome.
 
 ---
 
+## ⚡ Check your store's AEO in 10 seconds (free)
+
+Don't guess — measure. We built free tools that score your store against everything in this checklist:
+
+- **[Run the free AI-Visibility Check →](https://hatchloop.dev/ai-visibility-check/)** — your AI Search Visibility + Agent-Commerce score + competitor comparison
+- One command in your terminal: `npx github:basilalshukaili/ai-visibility-checker yourstore.com`
+- [Product Schema Generator](https://hatchloop.dev/product-schema-generator/) · [llms.txt Generator](https://hatchloop.dev/llms-txt-generator/) · [AI Crawler Check](https://hatchloop.dev/ai-crawler-check/)
+- The data: [we audited 22 DTC brands](https://hatchloop.dev/state-of-ai-visibility-dtc/) — median AI-visibility was just **52/100**, and a third had zero product schema.
+
+Want it done for you? The [**$99 AEO Audit + Fix List**](https://hatchloop.dev/ai-visibility-check/) ranks every gap with the exact fixes.
+
+---
+
 ## Why AEO matters for Shopify merchants in 2025-26
 
-- **~30% of product-discovery queries** now resolve in an AI answer box rather than blue links (Sparktoro, 2025).
+- A growing share of product-discovery queries now resolve in an AI answer box rather than ten blue links — and the trend is accelerating.
 - ChatGPT's shopping integrations (Bing index + partner feeds) actively pull product data from structured pages.
 - Perplexity's "Shop" mode cites specific product pages with price, reviews, and stock status.
 - Google's AI Overviews increasingly answer "best [product] for [use case]" queries directly — your page either gets cited or doesn't.
